@@ -1,4 +1,9 @@
-python-3.10
+streamlit
 tensorflow
+numpy
+pandas
 opencv-python
+python-3.10
+
+
 
